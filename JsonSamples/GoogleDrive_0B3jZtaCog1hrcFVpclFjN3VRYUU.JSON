@@ -1,0 +1,548 @@
+{
+ "kind": "drive#fileList",
+ "incompleteSearch": false,
+ "files": [
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrN2JvcGFNcjJZYVk",
+   "name": "YET Another app child of 4",
+   "mimeType": "application/vnd.google-apps.folder",
+   "description": "This folder was created from the test app!",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrcFVpclFjN3VRYUU"
+   ],
+   "appProperties": {
+    "test": "testing app properties out..."
+   },
+   "spaces": [
+    "drive"
+   ],
+   "version": "2603",
+   "webViewLink": "https://drive.google.com/drive/folders/0B3jZtaCog1hrN2JvcGFNcjJZYVk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.folder+38+shared",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-08-17T23:52:01.492Z",
+   "createdTime": "2017-03-07T06:51:15.032Z",
+   "modifiedTime": "2017-03-07T06:51:15.032Z",
+   "modifiedByMeTime": "2017-03-07T06:51:15.032Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": true,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": false,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": true,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": false,
+    "canRemoveChildren": true,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "folderColorRgb": "#9fe1e7",
+   "quotaBytesUsed": "0",
+   "isAppAuthorized": true
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hremdRdl9hcmhySGc",
+   "name": "YET Another app child of 4",
+   "mimeType": "application/vnd.google-apps.folder",
+   "description": "This folder was created from the test app!",
+   "starred": false,
+   "trashed": true,
+   "explicitlyTrashed": true,
+   "parents": [
+    "0B3jZtaCog1hrcFVpclFjN3VRYUU"
+   ],
+   "appProperties": {
+    "test": "testing app properties out..."
+   },
+   "spaces": [
+    "drive"
+   ],
+   "version": "1824",
+   "webViewLink": "https://drive.google.com/drive/folders/0B3jZtaCog1hremdRdl9hcmhySGc",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.folder+27+shared",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": false,
+   "createdTime": "2017-01-01T05:07:46.811Z",
+   "modifiedTime": "2017-01-01T05:07:46.811Z",
+   "modifiedByMeTime": "2017-01-01T05:07:46.811Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": true,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": false,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": true,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": false,
+    "canRemoveChildren": true,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "folderColorRgb": "#f83a22",
+   "quotaBytesUsed": "0",
+   "isAppAuthorized": true
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hra2kyQzdUM2VKbHM",
+   "name": "YET Another app child of 4",
+   "mimeType": "application/vnd.google-apps.folder",
+   "description": "This folder was created from the test app!",
+   "starred": false,
+   "trashed": true,
+   "explicitlyTrashed": true,
+   "parents": [
+    "0B3jZtaCog1hrcFVpclFjN3VRYUU"
+   ],
+   "appProperties": {
+    "test": "testing app properties out..."
+   },
+   "spaces": [
+    "drive"
+   ],
+   "version": "1825",
+   "webViewLink": "https://drive.google.com/drive/folders/0B3jZtaCog1hra2kyQzdUM2VKbHM",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.folder+38+shared",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": false,
+   "createdTime": "2017-01-01T05:06:24.567Z",
+   "modifiedTime": "2017-01-01T05:06:24.567Z",
+   "modifiedByMeTime": "2017-01-01T05:06:24.567Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": true,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": false,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": true,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": false,
+    "canRemoveChildren": true,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "folderColorRgb": "#9fe1e7",
+   "quotaBytesUsed": "0",
+   "isAppAuthorized": true
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrLXQ2VlJHa0hOMG8",
+   "name": "Another app child of 4",
+   "mimeType": "application/vnd.google-apps.folder",
+   "description": "This folder was created from the test app!",
+   "starred": false,
+   "trashed": true,
+   "explicitlyTrashed": true,
+   "parents": [
+    "0B3jZtaCog1hrcFVpclFjN3VRYUU"
+   ],
+   "appProperties": {
+    "test": "testing app properties out..."
+   },
+   "spaces": [
+    "drive"
+   ],
+   "version": "1826",
+   "webViewLink": "https://drive.google.com/drive/folders/0B3jZtaCog1hrLXQ2VlJHa0hOMG8",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.folder+48+shared",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": false,
+   "createdTime": "2017-01-01T04:59:28.558Z",
+   "modifiedTime": "2017-01-01T04:59:28.558Z",
+   "modifiedByMeTime": "2017-01-01T04:59:28.558Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": true,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": false,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": true,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": false,
+    "canRemoveChildren": true,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "folderColorRgb": "#8f8f8f",
+   "quotaBytesUsed": "0",
+   "isAppAuthorized": true
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrSW1oM0dSQ0RvWHM",
+   "name": "Another app child of 4",
+   "mimeType": "application/vnd.google-apps.folder",
+   "description": "This folder was created from the test app!",
+   "starred": false,
+   "trashed": true,
+   "explicitlyTrashed": true,
+   "parents": [
+    "0B3jZtaCog1hrcFVpclFjN3VRYUU"
+   ],
+   "appProperties": {
+    "test": "testing app properties out..."
+   },
+   "spaces": [
+    "drive"
+   ],
+   "version": "1827",
+   "webViewLink": "https://drive.google.com/drive/folders/0B3jZtaCog1hrSW1oM0dSQ0RvWHM",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.folder+48+shared",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": false,
+   "createdTime": "2017-01-01T04:58:03.452Z",
+   "modifiedTime": "2017-01-01T04:58:03.452Z",
+   "modifiedByMeTime": "2017-01-01T04:58:03.452Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": true,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": false,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": true,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": false,
+    "canRemoveChildren": true,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "folderColorRgb": "#8f8f8f",
+   "quotaBytesUsed": "0",
+   "isAppAuthorized": true
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrNkN6clJldms5UDA",
+   "name": "app child of 4",
+   "mimeType": "application/vnd.google-apps.folder",
+   "description": "This folder was created from the test app!",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrcFVpclFjN3VRYUU"
+   ],
+   "appProperties": {
+    "test": "testing app properties out..."
+   },
+   "spaces": [
+    "drive"
+   ],
+   "version": "1829",
+   "webViewLink": "https://drive.google.com/drive/folders/0B3jZtaCog1hrNkN6clJldms5UDA",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.folder+45+shared",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-08-17T23:51:58.551Z",
+   "createdTime": "2017-01-01T04:53:24.692Z",
+   "modifiedTime": "2017-01-01T04:53:24.692Z",
+   "modifiedByMeTime": "2017-01-01T04:53:24.692Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": true,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": false,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": true,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": false,
+    "canRemoveChildren": true,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "folderColorRgb": "#f691b2",
+   "quotaBytesUsed": "0",
+   "isAppAuthorized": true
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+﻿<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>..\..\..\obj\WpfFileExplorer\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <OutputPath>..\..\..\bin\$(Configuration)\$(AssemblyName)\</OutputPath>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
+
+  <ItemGroup>
+    <None Include="..\..\..\JsonSamples\GoogleDrive_0B3jZtaCog1hraC01eFFKZlA3TVk.JSON" Link="GoogleDrive_0B3jZtaCog1hraC01eFFKZlA3TVk.JSON">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\..\JsonSamples\GoogleDrive_0B3jZtaCog1hrcFVpclFjN3VRYUU.JSON" Link="GoogleDrive_0B3jZtaCog1hrcFVpclFjN3VRYUU.JSON">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\..\JsonSamples\GoogleDrive_0B3jZtaCog1hrdi1uTjh3aXk0aW8.JSON" Link="GoogleDrive_0B3jZtaCog1hrdi1uTjh3aXk0aW8.JSON">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\..\JsonSamples\GoogleDrive_0B3jZtaCog1hrdTJTalcxUi1xREk.JSON" Link="GoogleDrive_0B3jZtaCog1hrdTJTalcxUi1xREk.JSON">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\..\JsonSamples\GoogleDrive_0B3jZtaCog1hrNkN6clJldms5UDA.JSON" Link="GoogleDrive_0B3jZtaCog1hrNkN6clJldms5UDA.JSON">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\..\JsonSamples\GoogleDrive_root.JSON" Link="GoogleDrive_root.JSON">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Support.CSharp\Support.CSharp.csproj" />
+  </ItemGroup>
+
+</Project>

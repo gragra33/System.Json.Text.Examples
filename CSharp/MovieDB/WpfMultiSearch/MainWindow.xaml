@@ -1,0 +1,111 @@
+﻿<Window x:Class="WpfMultiSearch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+        mc:Ignorable="d"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+        xmlns:m="clr-namespace:WpfMultiSearch.Models"
+        xmlns:vm="clr-namespace:WpfMultiSearch.ViewModels"
+
+        Title="JSON SERIALIZATION - CodeProject  |  MovieDB - MultiType List"
+        WindowStartupLocation="CenterScreen" Height="370" Width="700">
+
+    <Window.DataContext>
+        <vm:MainViewModel/>
+    </Window.DataContext>
+
+    <Window.Resources>
+
+        <Style TargetType="TextBlock" x:Key="TextStyle">
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+
+        <DataTemplate DataType="{x:Type m:Movie}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="MOVIE" Margin="0 0 0 4"
+                           Style="{StaticResource TextStyle}"
+                           FontWeight="Bold" FontSize="16"/>
+                <Image Source="{Binding PosterPath,
+                       TargetNullValue={x:Static Member=m:Consts.MovieImage}}" Grid.Row="1"/>
+                <TextBlock Text="{Binding Title}" VerticalAlignment="Bottom"
+                           Style="{StaticResource TextStyle}"
+                           Grid.Row="2"  Margin="0 4 0 0"/>
+            </Grid>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type m:TV}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="TV SHOW" Margin="0 0 0 4"
+                           Style="{StaticResource TextStyle}"
+                           FontWeight="Bold" FontSize="16"/>
+                <Image Source="{Binding PosterPath,
+                       TargetNullValue={x:Static Member=m:Consts.TvImage}}" Grid.Row="1"/>
+                <TextBlock Text="{Binding Name}" VerticalAlignment="Bottom"
+                           Style="{StaticResource TextStyle}"
+                           Grid.Row="2"  Margin="0 4 0 0"/>
+            </Grid>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type m:Person}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="PERSON" Margin="0 0 0 4"
+                           Style="{StaticResource TextStyle}"
+                           FontWeight="Bold" FontSize="16"/>
+                <Image Source="{Binding ProfilePath,
+                       TargetNullValue={x:Static Member=m:Consts.AnonImage}}" Grid.Row="1"/>
+                <TextBlock Text="{Binding Name}" VerticalAlignment="Bottom"
+                           Style="{StaticResource TextStyle}"
+                           Grid.Row="2"  Margin="0 4 0 0"/>
+            </Grid>
+        </DataTemplate>
+
+        <ItemsPanelTemplate x:Key="ItemsPanelTemplate">
+            <WrapPanel Orientation="Horizontal"
+                       ItemWidth="200" ItemHeight="240" Margin="2"/>
+        </ItemsPanelTemplate>
+
+        <Style TargetType="ListBoxItem">
+            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+            <Setter Property="VerticalContentAlignment" Value="Stretch"/>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Movie DB - MultiSearch Results"
+                   FontWeight="Bold" FontSize="20"
+                   VerticalAlignment="Bottom" Margin="10"/>
+        <Button Content="_Get Data" Padding="10 5"
+                HorizontalAlignment="Right" Margin="10"
+                Command="{Binding ClickedCommand}"/>
+
+        <ListBox Grid.Row="1" Margin="10 0 10 10"
+                 ItemsPanel="{StaticResource ItemsPanelTemplate}"
+                 ItemsSource="{Binding Results.Results}"/>
+    </Grid>
+
+</Window>

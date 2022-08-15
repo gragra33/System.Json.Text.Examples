@@ -1,0 +1,24 @@
+<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>..\..\..\obj\Support.CSharp\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
+
+  <PropertyGroup>
+    <OutputPath>..\..\..\bin\$(Configuration)\$(AssemblyName)\</OutputPath>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
+
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+    <Folder Include="Json\" />
+    <Folder Include="Json\Converters\" />
+    <Folder Include="Observable\" />
+  </ItemGroup>
+
+</Project>

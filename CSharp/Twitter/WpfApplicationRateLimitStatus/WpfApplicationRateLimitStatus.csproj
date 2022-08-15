@@ -1,0 +1,28 @@
+﻿<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>..\..\..\obj\WpfApplicationRateLimitStatus\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <OutputPath>..\..\..\bin\$(Configuration)\$(AssemblyName)\</OutputPath>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
+
+  <ItemGroup>
+    <None Include="..\..\..\JsonSamples\Twitter_ApplicationRateLimitStatus.Json" Link="Twitter_ApplicationRateLimitStatus.Json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Support.CSharp\Support.CSharp.csproj" />
+  </ItemGroup>
+
+</Project>

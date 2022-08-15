@@ -1,0 +1,596 @@
+{
+	"photo": {
+		"id": "2485664017",
+		"secret": "6e8ca455b7",
+		"server": "2144",
+		"farm": 3,
+		"dateuploaded": "1210595597",
+		"isfavorite": 0,
+		"license": "0",
+		"safety_level": "0",
+		"rotation": 0,
+		"owner": {
+			"nsid": "41622708@N00",
+			"username": "Eric Lafforgue",
+			"realname": "Eric Lafforgue",
+			"location": "Brussels, Belgium",
+			"iconserver": "5481",
+			"iconfarm": 6,
+			"path_alias": "mytripsmypics"
+		},
+		"title": {
+			"_content": "North korean army Pyongyang North Korea \ubd81\ud55c"
+		},
+		"description": {
+			"_content": "A woman in traditional dress in the middle of hundred of soldiers who were going to parade in Pyongyang. Do not know why she was there...to be on Flickr perhaps!\n\nL'arm\u00e9e et ses soldats sont omnipr\u00e9sents en Cor\u00e9e du Nord. Dans les rues, devant les b\u00e2timents, m\u00eame dans les champs pour aider les paysans \u00e0 tenir les objectifs de production fix\u00e9s par le gouvernement.  \nLe pays est un des plus plus militaris\u00e9s du monde, avec un effectif estim\u00e9e \u00e0 1,2 million d\u2019hommes et de femmes en armes pour 23 millions d\u2019habitants. M\u00eame si les experts pensent que le pays poss\u00e8de la bombe atomique, les infrastructures et les \u00e9quipements visibles semblent dat\u00e9s des ann\u00e9es 50. \nEn Cor\u00e9e du Nord, le service militaire dure 6 ans. 6 ann\u00e9es qui coupent totalement la recrue de sa famille \u00e0 cause de l\u2019absence de mobile, mail et de t\u00e9l\u00e9phones priv\u00e9s.\n\nPyongyang North Korea \ubd81\ud55c\n\n\u00a9 Eric Lafforgue\n<a href=\"http:\/\/www.ericlafforgue.com\" rel=\"nofollow\">www.ericlafforgue.com<\/a> "
+		},
+		"visibility": {
+			"ispublic": 1,
+			"isfriend": 0,
+			"isfamily": 0
+		},
+		"dates": {
+			"posted": "1210595597",
+			"taken": "2008-04-13 09:34:56",
+			"takengranularity": "0",
+			"takenunknown": 0,
+			"lastupdate": "1502528455"
+		},
+		"views": "1993245",
+		"editability": {
+			"cancomment": 0,
+			"canaddmeta": 0
+		},
+		"publiceditability": {
+			"cancomment": 1,
+			"canaddmeta": 0
+		},
+		"usage": {
+			"candownload": 0,
+			"canblog": 0,
+			"canprint": 0,
+			"canshare": 1
+		},
+		"comments": {
+			"_content": "483"
+		},
+		"notes": {
+			"note": [{
+				"id": "72157613689748940",
+				"author": "22994517@N02",
+				"authorname": "morningbroken",
+				"authorrealname": "",
+				"authorispro": 0,
+				"x": "227",
+				"y": "172",
+				"w": "66",
+				"h": "31",
+				"_content": "Maybe ~ I think  ...She is very happy ."
+			},
+			{
+				"id": "72157622673125344",
+				"author": "40684115@N06",
+				"authorname": "Suvcon",
+				"authorrealname": "",
+				"authorispro": 0,
+				"x": "303",
+				"y": "114",
+				"w": "75",
+				"h": "60",
+				"_content": "this guy is different."
+			}]
+		},
+		"people": {
+			"haspeople": 0
+		},
+		"tags": {
+			"tag": [{
+				"id": "2444129-2485664017-95866",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "North Korea",
+				"_content": "northkorea",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-293294",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "DPRK",
+				"_content": "dprk",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-3217",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "asia",
+				"_content": "asia",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-12152",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "kim jong il",
+				"_content": "kimjongil",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-1260090",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "kim il sung",
+				"_content": "kimilsung",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-23298915",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "RDPC",
+				"_content": "rdpc",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-8071490",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Corea del Nord",
+				"_content": "coreadelnord",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-9363",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "korea",
+				"_content": "korea",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-24813543",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd",
+				"_content": "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-247343",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\ud55c\uad6d",
+				"_content": "\ud55c\uad6d",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-23716744",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "inside north korea",
+				"_content": "insidenorthkorea",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-3207464",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\ubd81\ud55c",
+				"_content": "\ubd81\ud55c",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-6590194",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\u041a\u043e\u0440\u0435\u044f",
+				"_content": "\u043a\u043e\u0440\u0435\u044f",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-23333809",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\u0441\u0435\u0432\u0435\u0440\u043d\u0430\u044f",
+				"_content": "\u0441\u0435\u0432\u0435\u0440\u043d\u0430\u044f",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-29227474",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+				"_content": "\u0643\u0648\u0631\u064a\u0627\u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-121",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "travel",
+				"_content": "travel",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-71233",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "journalist",
+				"_content": "journalist",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-93596",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "journalists",
+				"_content": "journalists",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-867",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "girl",
+				"_content": "girl",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-347",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "woman",
+				"_content": "woman",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-2997",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "women",
+				"_content": "women",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-1711",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "asian",
+				"_content": "asian",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-1826",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "army",
+				"_content": "army",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-1825",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "soldier",
+				"_content": "soldier",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-76132",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "soldat",
+				"_content": "soldat",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-5890",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "military",
+				"_content": "military",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-75154",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "militaire",
+				"_content": "militaire",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-14201367",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "north corea",
+				"_content": "northcorea",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-41272968",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "NORTH KOREA ARMY PHOTOS",
+				"_content": "northkoreaarmyphotos",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-8327520",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
+				"_content": "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-5984368",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\u5317\u671d\u9bae",
+				"_content": "\u5317\u671d\u9bae",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-355435",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Corea del Norte",
+				"_content": "coreadelnorte",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-7135297",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Cor\u00e9e du Nord",
+				"_content": "cor\u00e9edunord",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-43943813",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Coreia do Norte",
+				"_content": "coreiadonorte",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-30488995",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Cor\u00e9ia do Norte",
+				"_content": "cor\u00e9iadonorte",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-43943815",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e40\u0e2b\u0e19\u0e37\u0e2d",
+				"_content": "\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e40\u0e2b\u0e19\u0e37\u0e2d",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-1716831",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Nordkorea",
+				"_content": "nordkorea",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-27047678",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1",
+				"_content": "\u03b2\u03cc\u03c1\u03b5\u03b9\u03b1",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-36725001",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "\u039a\u03bf\u03c1\u03ad\u03b1",
+				"_content": "\u03ba\u03bf\u03c1\u03ad\u03b1",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-2326",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "photo",
+				"_content": "photo",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-7503",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "picture",
+				"_content": "picture",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-18",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "pictures",
+				"_content": "pictures",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-2203920",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "4466",
+				"_content": "4466",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-40862697",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Kim Jong-Un",
+				"_content": "kimjongun",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-38839",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "coree",
+				"_content": "coree",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-3143",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "war",
+				"_content": "war",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-180746",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Axis of evil",
+				"_content": "axisofevil",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-65",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Birthday",
+				"_content": "birthday",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-544",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Color",
+				"_content": "color",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-545",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Colour",
+				"_content": "colour",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-210405",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Dictatorship",
+				"_content": "dictatorship",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-1355177",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "North korean",
+				"_content": "northkorean",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-4890",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Outdoor",
+				"_content": "outdoor",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-200159",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Pyongyang",
+				"_content": "pyongyang",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-415367",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "Stalinist",
+				"_content": "stalinist",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-37907",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "incredible",
+				"_content": "incredible",
+				"machine_tag": 0
+			},
+			{
+				"id": "2444129-2485664017-136",
+				"author": "41622708@N00",
+				"authorname": "Eric Lafforgue",
+				"raw": "pink",
+				"_content": "pink",
+				"machine_tag": 0
+			}]
+		},
+		"location": {
+			"latitude": "39.022166",
+			"longitude": "125.735666",
+			"accuracy": "16",
+			"context": "0",
+			"neighbourhood": {
+				"_content": "Kurwon-Dong",
+				"place_id": "mYuzP11QUr3azwDE",
+				"woeid": "1074428"
+			},
+			"locality": {
+				"_content": "Pyongyang",
+				"place_id": "fb21dGtQUr1S7XJb",
+				"woeid": "1079132"
+			},
+			"region": {
+				"_content": "P\u00b4yongyang-si",
+				"place_id": "IRaw3fdTUroxOnKP1g",
+				"woeid": "20070115"
+			},
+			"country": {
+				"_content": "North Korea",
+				"place_id": "pTnJb9dTUb46k6S9mw",
+				"woeid": "23424865"
+			},
+			"place_id": "mYuzP11QUr3azwDE",
+			"woeid": "1074428"
+		},
+		"geoperms": {
+			"ispublic": 1,
+			"iscontact": 0,
+			"isfriend": 0,
+			"isfamily": 0
+		},
+		"urls": {
+			"url": [{
+				"type": "photopage",
+				"_content": "https:\/\/www.flickr.com\/photos\/mytripsmypics\/2485664017\/"
+			}]
+		},
+		"sizes": { "canblog": 1, "canprint": 0, "candownload": 0, 
+			"size": [
+			  { "label": "Square", "width": 75, "height": 75, "source": "https:\/\/farm3.staticflickr.com\/2144\/2485664017_6e8ca455b7_s.jpg", "url": "https:\/\/www.flickr.com\/photos\/mytripsmypics\/2485664017\/sizes\/sq\/", "media": "photo" },
+			  { "label": "Large Square", "width": "150", "height": "150", "source": "https:\/\/farm3.staticflickr.com\/2144\/2485664017_6e8ca455b7_q.jpg", "url": "https:\/\/www.flickr.com\/photos\/mytripsmypics\/2485664017\/sizes\/q\/", "media": "photo" },
+			  { "label": "Thumbnail", "width": 100, "height": 71, "source": "https:\/\/farm3.staticflickr.com\/2144\/2485664017_6e8ca455b7_t.jpg", "url": "https:\/\/www.flickr.com\/photos\/mytripsmypics\/2485664017\/sizes\/t\/", "media": "photo" },
+			  { "label": "Small", "width": "240", "height": "170", "source": "https:\/\/farm3.staticflickr.com\/2144\/2485664017_6e8ca455b7_m.jpg", "url": "https:\/\/www.flickr.com\/photos\/mytripsmypics\/2485664017\/sizes\/s\/", "media": "photo" },
+			  { "label": "Medium", "width": "500", "height": "354", "source": "https:\/\/farm3.staticflickr.com\/2144\/2485664017_6e8ca455b7.jpg", "url": "https:\/\/www.flickr.com\/photos\/mytripsmypics\/2485664017\/sizes\/m\/", "media": "photo" },
+			  { "label": "Medium 640", "width": "640", "height": "453", "source": "https:\/\/farm3.staticflickr.com\/2144\/2485664017_6e8ca455b7_z.jpg?zz=1", "url": "https:\/\/www.flickr.com\/photos\/mytripsmypics\/2485664017\/sizes\/z\/", "media": "photo" }
+			] },
+		"media": "photo"
+	},
+	"stat": "ok"
+}

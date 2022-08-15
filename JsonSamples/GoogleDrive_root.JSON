@@ -1,0 +1,1677 @@
+{
+ "kind": "drive#fileList",
+ "incompleteSearch": false,
+ "files": [
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrY1MzQVdFbEZPTkU",
+   "name": "Windowed StdDev.jpg",
+   "mimeType": "image/jpeg",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "5655",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrY1MzQVdFbEZPTkU&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrY1MzQVdFbEZPTkU/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/image/jpeg",
+   "hasThumbnail": true,
+   "thumbnailLink": "https://lh3.googleusercontent.com/XObq8TQVcOcajUHi0co_PpE_2jQo6DkwtlDFFMFhSKKHSzm8RNCwsthFnC2Mam7nyugMtA=s220",
+   "thumbnailVersion": "1",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-08-17T03:49:25.522Z",
+   "createdTime": "2017-03-02T07:49:55.741Z",
+   "modifiedTime": "2017-08-17T03:48:20.038Z",
+   "modifiedByMeTime": "2017-08-17T03:48:20.038Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "Windowed StdDev.jpg",
+   "fullFileExtension": "jpg",
+   "fileExtension": "jpg",
+   "md5Checksum": "d36723e24c706149269dccb4072ff1bd",
+   "size": "82607",
+   "quotaBytesUsed": "82607",
+   "headRevisionId": "0B3jZtaCog1hrQnQxSDl3TzhzbVg5cEhhRkpFZkJhaHp5cjZnPQ",
+   "imageMediaMetadata": {
+    "width": 586,
+    "height": 653,
+    "rotation": 0
+   },
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hreUFzdWEwRHhfMTA",
+   "name": "WinformScrollIntoViewPanel.zip",
+   "mimeType": "application/zip",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "5656",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hreUFzdWEwRHhfMTA&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hreUFzdWEwRHhfMTA/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/zip",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-08-16T12:58:45.921Z",
+   "createdTime": "2017-08-16T11:49:59.923Z",
+   "modifiedTime": "2017-08-16T12:48:13.000Z",
+   "modifiedByMeTime": "2017-08-16T12:48:13.000Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "WinformScrollIntoViewPanel.zip",
+   "fullFileExtension": "zip",
+   "fileExtension": "zip",
+   "md5Checksum": "40c88e0da00f0a12791e174fb382bc0e",
+   "size": "307309",
+   "quotaBytesUsed": "307309",
+   "headRevisionId": "0B3jZtaCog1hrVjhTeGZtVnd6WU9PNVhjSFFVaDVyVGJBZXJrPQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrOTJwUklmd3Z1VXc",
+   "name": "CodeProject_Landing_page_2017.png",
+   "mimeType": "image/png",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "5314",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrOTJwUklmd3Z1VXc&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrOTJwUklmd3Z1VXc/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/image/png",
+   "hasThumbnail": true,
+   "thumbnailLink": "https://lh3.googleusercontent.com/hXVwIwxlCcONpxWY8McutBxB-9NQ8oKo7bdJKqisojXPV3gwFVHvM7drDBrNLfclTQjOxg=s220",
+   "thumbnailVersion": "1",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-07-31T09:43:15.861Z",
+   "createdTime": "2017-07-31T09:15:28.204Z",
+   "modifiedTime": "2017-07-31T09:16:12.660Z",
+   "modifiedByMeTime": "2017-07-31T09:16:12.660Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "CodeProject_Landing_page_2017.png",
+   "fullFileExtension": "png",
+   "fileExtension": "png",
+   "md5Checksum": "80f9726d25378ea48101bcc5260a3e56",
+   "size": "765776",
+   "quotaBytesUsed": "765776",
+   "headRevisionId": "0B3jZtaCog1hrdkJOalAwT09ta1VoWmlXV25QcWxDZEVseTNjPQ",
+   "imageMediaMetadata": {
+    "width": 1920,
+    "height": 4926,
+    "rotation": 0
+   },
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hraGhQeE1tajBCZkE",
+   "name": "KnightsTourChallenge.zip",
+   "mimeType": "application/zip",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "3319",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hraGhQeE1tajBCZkE&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hraGhQeE1tajBCZkE/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/zip",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-03-14T00:05:15.682Z",
+   "createdTime": "2017-03-13T15:23:14.157Z",
+   "modifiedTime": "2017-03-14T03:50:22.000Z",
+   "modifiedByMeTime": "2017-03-14T03:50:22.000Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "KnightsTourChallenge.zip",
+   "fullFileExtension": "zip",
+   "fileExtension": "zip",
+   "md5Checksum": "5a01ae76a611d57ad0d5a879143b1be7",
+   "size": "62351",
+   "quotaBytesUsed": "62351",
+   "headRevisionId": "0B3jZtaCog1hrUVEyT2QzS21XMXoyeGFreSs2cytVSXFGR3BvPQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrdXdhVEdYQkVfY0k",
+   "name": "KnightsTour3.jpg",
+   "mimeType": "image/jpeg",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "3400",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrdXdhVEdYQkVfY0k&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrdXdhVEdYQkVfY0k/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/image/jpeg",
+   "hasThumbnail": true,
+   "thumbnailLink": "https://lh3.googleusercontent.com/N9hKkRzuZXUngX9AsYC3d89RLLqcXTgKmmM904gns1Z91XJOMNkjT71IoO-piZkRxI04CA=s220",
+   "thumbnailVersion": "3",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-04-20T05:37:41.166Z",
+   "createdTime": "2017-03-13T11:00:08.286Z",
+   "modifiedTime": "2017-03-14T02:47:54.000Z",
+   "modifiedByMeTime": "2017-03-14T02:47:54.000Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "KnightsTour3.jpg",
+   "fullFileExtension": "jpg",
+   "fileExtension": "jpg",
+   "md5Checksum": "ecbf381bbb470e3b9039c91e29372a89",
+   "size": "91471",
+   "quotaBytesUsed": "91471",
+   "headRevisionId": "0B3jZtaCog1hrelJYcC9pZTVLVWk4aUE0dndCTW9Fa0JTdHl3PQ",
+   "imageMediaMetadata": {
+    "width": 659,
+    "height": 512,
+    "rotation": 0
+   },
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hreHNBTkNpaHlDMU0",
+   "name": "KnightsTour2.jpg",
+   "mimeType": "image/jpeg",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2709",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hreHNBTkNpaHlDMU0&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hreHNBTkNpaHlDMU0/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/image/jpeg",
+   "hasThumbnail": true,
+   "thumbnailLink": "https://lh3.googleusercontent.com/rBgVX854tGvmkRwHD8pa7qqIMMqH7tRYMIyRo1BhmrmWdWkkego4PDylgr7ZsVCBmReuwg=s220",
+   "thumbnailVersion": "1",
+   "viewedByMe": false,
+   "createdTime": "2017-03-13T10:59:54.342Z",
+   "modifiedTime": "2017-03-12T21:25:56.000Z",
+   "modifiedByMeTime": "2017-03-12T21:25:56.000Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": false,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    }
+   ],
+   "originalFilename": "KnightsTour2.jpg",
+   "fullFileExtension": "jpg",
+   "fileExtension": "jpg",
+   "md5Checksum": "48df434939f7c78ac67cc89870ac3167",
+   "size": "89291",
+   "quotaBytesUsed": "89291",
+   "headRevisionId": "0B3jZtaCog1hrSHJpSXorVmF0Rk5HcHBkVHc5aE1KRE84ajdRPQ",
+   "imageMediaMetadata": {
+    "width": 659,
+    "height": 479,
+    "rotation": 0
+   },
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrTkxiS09neXpsSFU",
+   "name": "KnightsTour1.jpg",
+   "mimeType": "image/jpeg",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2720",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrTkxiS09neXpsSFU&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrTkxiS09neXpsSFU/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/image/jpeg",
+   "hasThumbnail": true,
+   "thumbnailLink": "https://lh3.googleusercontent.com/by_vOQQcTKSDKLvJwZTzFOqoH88j8KrT9DXBWVzzAicb6jf9SbzaG5aOh4MFA25HCQCzGA=s220",
+   "thumbnailVersion": "1",
+   "viewedByMe": false,
+   "createdTime": "2017-03-13T11:00:22.798Z",
+   "modifiedTime": "2017-03-12T21:25:14.000Z",
+   "modifiedByMeTime": "2017-03-12T21:25:14.000Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": false,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    }
+   ],
+   "originalFilename": "KnightsTour1.jpg",
+   "fullFileExtension": "jpg",
+   "fileExtension": "jpg",
+   "md5Checksum": "8c34251b84e33b03033b2afc051e7edb",
+   "size": "115921",
+   "quotaBytesUsed": "115921",
+   "headRevisionId": "0B3jZtaCog1hrSkN1OXczVVlaRXIwUXVnTXVTTzdveEw2VUFZPQ",
+   "imageMediaMetadata": {
+    "width": 659,
+    "height": 840,
+    "rotation": 0
+   },
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrcFJmUHBGOFJIdEk",
+   "name": "WfRollingSD.zip",
+   "mimeType": "application/x-zip-compressed",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2567",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrcFJmUHBGOFJIdEk&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrcFJmUHBGOFJIdEk/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/x-zip-compressed",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-03-03T11:39:02.325Z",
+   "createdTime": "2017-03-03T11:38:03.719Z",
+   "modifiedTime": "2017-03-03T11:40:24.325Z",
+   "modifiedByMeTime": "2017-03-03T11:40:13.521Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "WfRollingSD.zip",
+   "fullFileExtension": "zip",
+   "fileExtension": "zip",
+   "md5Checksum": "4b2acbe704e90d32a24374cb3c4a904c",
+   "size": "20975",
+   "quotaBytesUsed": "41950",
+   "headRevisionId": "0B3jZtaCog1hrVG14cVRyTTI3VFJCVGxpODhRNnRVeEpQRGZBPQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrWk5SaGhQc0RTc00",
+   "name": "WfRollingSD_VB.zip",
+   "mimeType": "application/x-zip-compressed",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2564",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrWk5SaGhQc0RTc00&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrWk5SaGhQc0RTc00/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/x-zip-compressed",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-03-03T11:38:55.753Z",
+   "createdTime": "2017-03-03T11:38:55.753Z",
+   "modifiedTime": "2017-03-03T11:39:30.604Z",
+   "modifiedByMeTime": "2017-03-03T11:39:17.182Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "WfRollingSD_VB.zip",
+   "fullFileExtension": "zip",
+   "fileExtension": "zip",
+   "md5Checksum": "9a03c87ff4468ead7b9dc5d4fd1e641c",
+   "size": "22981",
+   "quotaBytesUsed": "22981",
+   "headRevisionId": "0B3jZtaCog1hrVjdycmUrWjFlaW1IcVJWakpoeWpDSVVvZEowPQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrVG81dGJSX1JmTWc",
+   "name": "WpfRollingSD.zip",
+   "mimeType": "application/x-zip-compressed",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2561",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrVG81dGJSX1JmTWc&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrVG81dGJSX1JmTWc/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/x-zip-compressed",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-03-03T11:39:05.358Z",
+   "createdTime": "2017-03-02T08:25:33.264Z",
+   "modifiedTime": "2017-03-03T11:39:05.358Z",
+   "modifiedByMeTime": "2017-03-03T11:39:05.358Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "WpfRollingSD.zip",
+   "fullFileExtension": "zip",
+   "fileExtension": "zip",
+   "md5Checksum": "09c93a999c86d7ec79d6b752908303ed",
+   "size": "24504",
+   "quotaBytesUsed": "24504",
+   "headRevisionId": "0B3jZtaCog1hrOVNRWUIyN1Q2YW1IT1hWV2Z3R3I2SWpVMVRvPQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrS1FiZF90QV9nbE0",
+   "name": "WpfRollingSD_VB.zip",
+   "mimeType": "application/x-zip-compressed",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2554",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrS1FiZF90QV9nbE0&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrS1FiZF90QV9nbE0/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/x-zip-compressed",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-03-03T11:38:59.238Z",
+   "createdTime": "2017-03-02T08:25:32.556Z",
+   "modifiedTime": "2017-03-03T11:38:59.238Z",
+   "modifiedByMeTime": "2017-03-03T11:38:59.238Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "WpfRollingSD_VB.zip",
+   "fullFileExtension": "zip",
+   "fileExtension": "zip",
+   "md5Checksum": "1ad041a6ce759d4d254f91d0d8d019cc",
+   "size": "23941",
+   "quotaBytesUsed": "23941",
+   "headRevisionId": "0B3jZtaCog1hrV2NKWjk5V0c4Q3dOdmlZZThCdml1emptT2FZPQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrQlJGN3ZjUnBQdzQ",
+   "name": "WpfRollingSD_VB[Conflict].zip",
+   "mimeType": "application/zip",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2609",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrQlJGN3ZjUnBQdzQ&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrQlJGN3ZjUnBQdzQ/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/zip",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": false,
+   "createdTime": "2017-03-08T03:00:57.678Z",
+   "modifiedTime": "2017-03-03T11:25:33.000Z",
+   "modifiedByMeTime": "2017-03-03T11:25:33.000Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": false,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    }
+   ],
+   "originalFilename": "WpfRollingSD_VB[Conflict].zip",
+   "fullFileExtension": "zip",
+   "fileExtension": "zip",
+   "md5Checksum": "1ad041a6ce759d4d254f91d0d8d019cc",
+   "size": "23941",
+   "quotaBytesUsed": "23941",
+   "headRevisionId": "0B3jZtaCog1hrSDZmbWJOeS8xQ1k2YmpIRWRGamFTc25tNlFVPQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrUkluY3daOVBCWWM",
+   "name": "WpfRollingSD[Conflict].zip",
+   "mimeType": "application/zip",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2612",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrUkluY3daOVBCWWM&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrUkluY3daOVBCWWM/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/zip",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": false,
+   "createdTime": "2017-03-08T03:01:01.659Z",
+   "modifiedTime": "2017-03-03T11:25:14.000Z",
+   "modifiedByMeTime": "2017-03-03T11:25:14.000Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": false,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    }
+   ],
+   "originalFilename": "WpfRollingSD[Conflict].zip",
+   "fullFileExtension": "zip",
+   "fileExtension": "zip",
+   "md5Checksum": "09c93a999c86d7ec79d6b752908303ed",
+   "size": "24504",
+   "quotaBytesUsed": "24504",
+   "headRevisionId": "0B3jZtaCog1hrKy9EK3RkNjhOMW5MdlhKQU9qbk14c3hTU3VFPQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrZWdNbng5enVHaVk",
+   "name": "FastBitCount.zip",
+   "mimeType": "application/zip",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2322",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrZWdNbng5enVHaVk&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrZWdNbng5enVHaVk/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/zip",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-02-17T20:27:05.042Z",
+   "createdTime": "2017-02-17T20:22:23.167Z",
+   "modifiedTime": "2017-02-21T05:46:48.000Z",
+   "modifiedByMeTime": "2017-02-21T05:46:48.000Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "FastBitCount.zip",
+   "fullFileExtension": "zip",
+   "fileExtension": "zip",
+   "md5Checksum": "477ca8f76734ff4d6994666bc3c3047a",
+   "size": "11270",
+   "quotaBytesUsed": "11270",
+   "headRevisionId": "0B3jZtaCog1hrbC9xOGFIOW1hNDdVNW1IMkJzNWNKbzFXSHB3PQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrSHBpS09HNlozb1U",
+   "name": "WpfFindRepeats.Mvvm.zip",
+   "mimeType": "application/zip",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2238",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrSHBpS09HNlozb1U&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrSHBpS09HNlozb1U/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/zip",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-02-17T09:06:46.669Z",
+   "createdTime": "2017-02-17T08:58:34.382Z",
+   "modifiedTime": "2017-02-17T09:00:30.259Z",
+   "modifiedByMeTime": "2017-02-17T09:00:13.385Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "WpfFindRepeats.Mvvm.zip",
+   "fullFileExtension": "Mvvm.zip",
+   "fileExtension": "zip",
+   "md5Checksum": "6ec2e847bd92e9e2cff2e2c56e038911",
+   "size": "29527",
+   "quotaBytesUsed": "29527",
+   "headRevisionId": "0B3jZtaCog1hrSUwyazlmZTFlWWRReUdSZUlEaTlROVJDSmRvPQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrd1Q4ZV9pWUUtTDQ",
+   "name": "WpfFindRepeats.zip",
+   "mimeType": "application/zip",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "2229",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrd1Q4ZV9pWUUtTDQ&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrd1Q4ZV9pWUUtTDQ/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/zip",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": false,
+   "createdTime": "2017-02-12T18:19:38.068Z",
+   "modifiedTime": "2017-02-17T08:57:57.000Z",
+   "modifiedByMeTime": "2017-02-17T08:57:57.000Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "WpfFindRepeats.zip",
+   "fullFileExtension": "zip",
+   "fileExtension": "zip",
+   "md5Checksum": "ffa80d5593fee6418f3f7f9072996dad",
+   "size": "31261",
+   "quotaBytesUsed": "31261",
+   "headRevisionId": "0B3jZtaCog1hrQk9ncG5KdEYzNDMxMFY1elpvTmMxbTZleW5FPQ",
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hralVVV3hDRE9PY0E",
+   "name": "Repeated Words.jpg",
+   "mimeType": "image/jpeg",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "5090",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hralVVV3hDRE9PY0E&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hralVVV3hDRE9PY0E/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/image/jpeg",
+   "hasThumbnail": true,
+   "thumbnailLink": "https://lh3.googleusercontent.com/-JArOsTXTMJqMQZ8P2l94wk3iJ-80hyDfpsRBflmYHRv7884QGq8C2FOyM3FFPf6vSjWpg=s220",
+   "thumbnailVersion": "2",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-07-24T09:39:00.974Z",
+   "createdTime": "2017-02-12T18:06:30.919Z",
+   "modifiedTime": "2017-02-13T05:40:14.000Z",
+   "modifiedByMeTime": "2017-02-13T05:40:14.000Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": false,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "Repeated Words.jpg",
+   "fullFileExtension": "jpg",
+   "fileExtension": "jpg",
+   "md5Checksum": "4f93f3f3c7e08f24b47ce41c88048686",
+   "size": "124993",
+   "quotaBytesUsed": "124993",
+   "headRevisionId": "0B3jZtaCog1hrRzV6QmZ4REJHYndwTVlKdTNJMXl3dHVleGZVPQ",
+   "imageMediaMetadata": {
+    "width": 786,
+    "height": 593,
+    "rotation": 0
+   },
+   "isAppAuthorized": false
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrdi1uTjh3aXk0aW8",
+   "name": "Test Folder",
+   "mimeType": "application/vnd.google-apps.folder",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrblNIeXQ2Y1JvRWc"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "5153",
+   "webViewLink": "https://drive.google.com/drive/folders/0B3jZtaCog1hrdi1uTjh3aXk0aW8",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.google-apps.folder+27+shared",
+   "hasThumbnail": false,
+   "thumbnailVersion": "0",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-07-27T10:47:09.662Z",
+   "createdTime": "2016-12-29T02:06:27.775Z",
+   "modifiedTime": "2017-01-27T10:30:10.920Z",
+   "modifiedByMeTime": "2016-12-29T02:06:27.775Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": true,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": false,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": true,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": false,
+    "canRemoveChildren": true,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "folderColorRgb": "#f83a22",
+   "quotaBytesUsed": "0",
+   "isAppAuthorized": false
+  }
+ ]
+}

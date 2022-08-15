@@ -1,0 +1,233 @@
+{
+ "kind": "drive#fileList",
+ "incompleteSearch": false,
+ "files": [
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hrME9ISjJvUVgyd00",
+   "name": "Zola02",
+   "mimeType": "image/jpeg",
+   "description": "Ballons at Zola's first birthday cake smash",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrNkN6clJldms5UDA"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "1836",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hrME9ISjJvUVgyd00&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hrME9ISjJvUVgyd00/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/image/jpeg",
+   "hasThumbnail": true,
+   "thumbnailLink": "https://lh3.googleusercontent.com/JnTZgpCZvCL1aZJeQV0rO9HZLVCsiceLlun8GhXruU9yIGm8ZYb1JoB4fcPA6wQ5TSZVUQ=s220",
+   "thumbnailVersion": "1",
+   "viewedByMe": false,
+   "createdTime": "2017-01-01T14:17:19.183Z",
+   "modifiedTime": "2017-01-01T14:17:19.183Z",
+   "modifiedByMeTime": "2017-01-01T14:17:19.183Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "ECPH9924.jpg",
+   "fullFileExtension": "jpg",
+   "fileExtension": "",
+   "md5Checksum": "47253c9aad2e6cb37b6d6beeea0fc41d",
+   "size": "8386446",
+   "quotaBytesUsed": "8386446",
+   "headRevisionId": "0B3jZtaCog1hrZ0xPRnhXRktLUzBMdkM5N0RNNks4dGpWK3BjPQ",
+   "imageMediaMetadata": {
+    "width": 4085,
+    "height": 2918,
+    "rotation": 0,
+    "time": "2014:05:25 13:25:29",
+    "cameraMake": "Canon",
+    "cameraModel": "Canon EOS 5D Mark III",
+    "exposureTime": 0.004,
+    "aperture": 3.2,
+    "flashUsed": false,
+    "focalLength": 150.0,
+    "isoSpeed": 200,
+    "meteringMode": "Pattern",
+    "exposureMode": "Manual",
+    "whiteBalance": "Manual",
+    "exposureBias": 0.0,
+    "maxApertureValue": 3.0,
+    "lens": "EF70-200mm f/2.8L IS II USM"
+   },
+   "isAppAuthorized": true
+  },
+  {
+   "kind": "drive#file",
+   "id": "0B3jZtaCog1hraGZvRFVkMHJkRkE",
+   "name": "Zola01",
+   "mimeType": "image/jpeg",
+   "description": "Zola's first birthday cake smash",
+   "starred": false,
+   "trashed": false,
+   "explicitlyTrashed": false,
+   "parents": [
+    "0B3jZtaCog1hrNkN6clJldms5UDA"
+   ],
+   "spaces": [
+    "drive"
+   ],
+   "version": "1837",
+   "webContentLink": "https://drive.google.com/uc?id=0B3jZtaCog1hraGZvRFVkMHJkRkE&export=download",
+   "webViewLink": "https://drive.google.com/file/d/0B3jZtaCog1hraGZvRFVkMHJkRkE/view?usp=drivesdk",
+   "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/image/jpeg",
+   "hasThumbnail": true,
+   "thumbnailLink": "https://lh3.googleusercontent.com/U60heb8eiVmy9-coaHibh7A6XMpSeSRkW_X-NABIadNzFl51aTcxzhOzBY4MGMQhyq9ruA=s220",
+   "thumbnailVersion": "1",
+   "viewedByMe": true,
+   "viewedByMeTime": "2017-01-01T14:47:57.023Z",
+   "createdTime": "2017-01-01T13:21:01.407Z",
+   "modifiedTime": "2017-01-01T13:21:01.407Z",
+   "modifiedByMeTime": "2017-01-01T13:21:01.407Z",
+   "modifiedByMe": true,
+   "owners": [
+    {
+     "kind": "drive#user",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "me": true,
+     "permissionId": "11998286918520834315",
+     "emailAddress": "foo@bar.com"
+    }
+   ],
+   "lastModifyingUser": {
+    "kind": "drive#user",
+    "displayName": "Foo Bar",
+    "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+    "me": true,
+    "permissionId": "11998286918520834315",
+    "emailAddress": "foo@bar.com"
+   },
+   "shared": true,
+   "ownedByMe": true,
+   "capabilities": {
+    "canAddChildren": false,
+    "canChangeViewersCanCopyContent": true,
+    "canComment": true,
+    "canCopy": true,
+    "canDelete": true,
+    "canDownload": true,
+    "canEdit": true,
+    "canListChildren": false,
+    "canMoveItemIntoTeamDrive": true,
+    "canReadRevisions": true,
+    "canRemoveChildren": false,
+    "canRename": true,
+    "canShare": true,
+    "canTrash": true,
+    "canUntrash": true
+   },
+   "viewersCanCopyContent": true,
+   "writersCanShare": true,
+   "permissions": [
+    {
+     "kind": "drive#permission",
+     "id": "11998286918520834315",
+     "type": "user",
+     "emailAddress": "foo@bar.com",
+     "role": "owner",
+     "displayName": "Foo Bar",
+     "photoLink": "https://lh3.googleusercontent.com/-ppyQamnlQT8/AAAAAAAAAAI/AAAAAAAAACg/yrkDDrrMJWs/s64/photo.jpg",
+     "deleted": false
+    },
+    {
+     "kind": "drive#permission",
+     "id": "anyoneWithLink",
+     "type": "anyone",
+     "role": "reader",
+     "allowFileDiscovery": false
+    }
+   ],
+   "originalFilename": "ECPH0076.jpg",
+   "fullFileExtension": "jpg",
+   "fileExtension": "",
+   "md5Checksum": "e1f96111c3c0776955f3d20cd65da4b7",
+   "size": "20106552",
+   "quotaBytesUsed": "20106552",
+   "headRevisionId": "0B3jZtaCog1hrZDhqL1dZY2ppMjZ3ZzRtYllnZ0JDRHBpMnNnPQ",
+   "imageMediaMetadata": {
+    "width": 5760,
+    "height": 3840,
+    "rotation": 0,
+    "time": "2014:05:24 21:17:00",
+    "cameraMake": "Canon",
+    "cameraModel": "Canon EOS 5D Mark III",
+    "exposureTime": 0.003125,
+    "aperture": 3.2,
+    "flashUsed": false,
+    "focalLength": 115.0,
+    "isoSpeed": 200,
+    "meteringMode": "Pattern",
+    "exposureMode": "Manual",
+    "whiteBalance": "Manual",
+    "exposureBias": 0.0,
+    "maxApertureValue": 3.0,
+    "lens": "EF70-200mm f/2.8L IS II USM"
+   },
+   "isAppAuthorized": true
+  }
+ ]
+}
